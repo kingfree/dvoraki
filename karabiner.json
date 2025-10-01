@@ -1,0 +1,71 @@
+{
+	"global": {
+		"check_for_updates_on_startup": true,
+			"show_in_menu_bar": true,
+			"show_profile_name_in_menu_bar": false
+	},
+		"profiles": [
+		{
+			"devices": [],
+			"fn_function_keys": {
+				"f1": "display_brightness_decrement",
+				"f10": "mute",
+				"f11": "volume_decrement",
+				"f12": "volume_increment",
+				"f2": "display_brightness_increment",
+				"f3": "mission_control",
+				"f4": "launchpad",
+				"f5": "illumination_decrement",
+				"f6": "illumination_increment",
+				"f7": "rewind",
+				"f8": "play_or_pause",
+				"f9": "fastforward"
+			},
+			"name": "Dvoraki",
+			"selected": true,
+			"simple_modifications": {
+				"caps_lock": "escape",
+				"q": "quote",
+				"w": "comma",
+				"e": "period",
+				"r": "p",
+				"t": "y",
+				"y": "f",
+				"u": "g",
+				"i": "c",
+				"o": "r",
+				"p": "l",
+				"open_bracket": "slash",
+				"close_bracket": "equal_sign",
+				"backslash": "backslash",
+				"a": "a",
+				"s": "o",
+				"d": "e",
+				"f": "i",
+				"g": "u",
+				"h": "d",
+				"j": "h",
+				"k": "t",
+				"l": "n",
+				"semicolon": "s",
+				"quote": "hyphen",
+				"z": "semicolon",
+				"x": "q",
+				"c": "j",
+				"v": "k",
+				"b": "x",
+				"n": "b",
+				"m": "m",
+				"comma": "w",
+				"period": "v",
+				"slash": "z",
+				"hyphen": "open_bracket",
+				"equal_sign": "close_bracket"
+			},
+			"virtual_hid_keyboard": {
+				"caps_lock_delay_milliseconds": 0,
+				"keyboard_type": "ansi"
+			}
+		}
+	]
+}
